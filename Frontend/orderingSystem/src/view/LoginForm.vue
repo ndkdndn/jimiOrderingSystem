@@ -1,5 +1,5 @@
+<!-- 登录页面 -->
 <template>
-  hello world
 </template>
   
 <script>
